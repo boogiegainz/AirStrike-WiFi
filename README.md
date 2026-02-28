@@ -6,7 +6,8 @@ attack engine, and full Windows support.
 
 ### On Windows
 1. **Scan** nearby networks using Windows' built-in `netsh` — no drivers, no setup
-2. **Import** a `.cap`, `.hccapx`, or `.hc22000` file captured from any device
+2. **Import** <img width="1300" height="706" alt="Screenshot 2026-02-28 160516" src="https://github.com/user-attachments/assets/3d213e29-775d-4dbe-9170-cfb1b1e35fd0" />
+a `.cap`, `.hccapx`, or `.hc22000` file captured from any device
 3. **Crack** it locally using hashcat (GPU-accelerated) or aircrack-ng (CPU)
 4. **Copy** the recovered password straight to your clipboard
 
