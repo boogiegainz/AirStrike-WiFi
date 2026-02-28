@@ -6,7 +6,7 @@ attack engine, and full Windows support.
 
 ### On Windows
 1. **Scan** nearby networks using Windows' built-in `netsh` — no drivers, no setup
-2. **Import** <img width="1300" height="706" alt="Screenshot 2026-02-28 160516" src="https://github.com/user-attachments/assets/3d213e29-775d-4dbe-9170-cfb1b1e35fd0" />
+2. **Import**  />
 a `.cap`, `.hccapx`, or `.hc22000` file captured from any device
 3. **Crack** it locally using hashcat (GPU-accelerated) or aircrack-ng (CPU)
 4. **Copy** the recovered password straight to your clipboard
@@ -32,4 +32,5 @@ n setup wizard | ❌ | ✅ Guided setup |
 | Packaged .exe | ❌ | ✅ Single-file, no install |
 <img width="1300" h<img width="619" height="540" alt="Screenshot 2026-02-28 160742" src="https://github.com/user-attachments/assets/c27a1f14-cece-4ca9-ac22-da9a88d373cd" />
 eight="706" alt="Screenshot 2026-02-28 160516" src="https://github.com/user-attachments/assets/31c986f2-b52c-4ec9-bd03-ea9<img width="614" height="542" alt="Screenshot 2026-02-28 160540" src="https://github.com/user-attachments/assets/51bcbb64-2e3a-46df-bd13-a4bf3dba0633" />
-16cbc1c5b" />
+16cbc1c5b" /><img width="1300" height="706" alt="Screenshot 2026-02-28 160516" src="https://github.com/user-attachments/assets/d11c6866-9cfc-4164-9b12-6563f7eb4693" />
+
