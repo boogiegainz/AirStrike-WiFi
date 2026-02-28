@@ -26,5 +26,9 @@ attack engine, and full Windows support.
 | Attack auto-escalation | Basic | ✅ Smart priority queue |
 | Session persistence | ❌ | ✅ SQLite — resume anytime |
 | Real-time signal graph | ❌ | ✅ Live matplotlib chart |
-| First-run setup wizard | ❌ | ✅ Guided setup |
+| First-ru<img width="620" height="544" alt="Screenshot 2026-02-28 160727" src="https://github.com/user-attachments/assets/9ccccd9c-7565-4ff7-b1d8-93c3ee363b4f" />
+n setup wizard | ❌ | ✅ Guided setup |
 | Packaged .exe | ❌ | ✅ Single-file, no install |
+<img width="1300" h<img width="619" height="540" alt="Screenshot 2026-02-28 160742" src="https://github.com/user-attachments/assets/c27a1f14-cece-4ca9-ac22-da9a88d373cd" />
+eight="706" alt="Screenshot 2026-02-28 160516" src="https://github.com/user-attachments/assets/31c986f2-b52c-4ec9-bd03-ea9<img width="614" height="542" alt="Screenshot 2026-02-28 160540" src="https://github.com/user-attachments/assets/51bcbb64-2e3a-46df-bd13-a4bf3dba0633" />
+16cbc1c5b" />
