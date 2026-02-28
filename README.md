@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/banner.png" width="600"/>
+  <br/>
+  <b>⚡ AirStrike — Next-Gen WiFi Auditing Platform</b>
+</p>
+
 ## ⚡ How It Works
 
 AirStrike is a next-generation WiFi auditing platform built on top of the
